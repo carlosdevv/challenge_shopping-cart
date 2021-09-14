@@ -40,7 +40,7 @@ Para iniciá-lo, siga os passos abaixo:
 $ yarn
 # Iniciar o projeto
 $ yarn start
-$ Iniciar o servidor (JSON Server)
+# Iniciar o servidor (JSON Server)
 $ yarn server
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
